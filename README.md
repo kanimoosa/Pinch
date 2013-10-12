@@ -8,7 +8,7 @@ See [http://drewsymo.com/web-servers/baller-nginx-php-fpm-apc-mysql-install-scri
 Pinch is a pinch to install, simply execute the following commands to get started:
 
 	$ yum install -y git
-	$ git clone git://github.com/drewsymo/Pinch.git
+	$ git clone git://github.com/kanimoosa/Pinch.git
 	$ cd Pinch/vanilla-lemp && bash install.sh
 
 If you're on Linode, you can simply rebuild your instance with the `Pinch-installer` [stackscript](www.linode.com/stackscripts/).
