@@ -51,7 +51,7 @@ The locations for each of the Pinch components are as follows:
 Pinch creates a new privledged user for your system and disables root SSH logins for security. Additionally, it will set a root password for your MariaDB server.
 
 * Hostname Option: `host.domain.com`
-* Timezone Option: `Australia/NSW`
+* Timezone Option: `Seoul/Asia`
 * New SSH Port: `3636`
 * New Root Username: `sudoninja`
 * New Root Password: `sudoninjapassword`
