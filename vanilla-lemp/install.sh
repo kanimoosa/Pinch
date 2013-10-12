@@ -18,7 +18,7 @@
 read -e -p "Enter the hostname: " -i "replace_me.with_your_host.com" PINCH_HOSTNAME
 
 ## Timezone Option
-read -e -p "Enter the timezone: " -i "Australia/NSW" PINCH_TIMEZONE
+read -e -p "Enter the timezone: " -i "Seoul/Asia" PINCH_TIMEZONE
 
 ## Custom SSH Port
 read -e -p "Enter the custom SSH port: " -i "3636" PINCH_SSH_PORT
